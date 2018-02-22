@@ -3,7 +3,7 @@
 //  Dead Reckoner
 //
 //  Created by Derek Blair on 3/20/15.
-//  Copyright (c) 2015 Iwe Labs. All rights reserved.
+//  Copyright (c) 2018 Derek Blair. All rights reserved.
 //
 
 #include "deadreckoner.h"
